@@ -9,10 +9,4 @@ public class UtilitiesExample : MonoBehaviour
     {
         int x = Utilities.Add(5, 6);
     }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
 }
